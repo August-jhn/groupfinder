@@ -1,0 +1,11 @@
+*,e,a,b,c,d,f,g,h,i,j
+e,e,a,b,c,d,f,g,h,i,j
+a,a,e,i,j,g,h,d,f,b,c
+b,b,d,e,f,a,c,j,i,h,g
+c,c,f,j,e,h,a,i,d,g,b
+d,d,b,h,g,j,i,a,c,e,f
+f,f,c,g,b,i,d,h,a,j,e
+g,g,i,f,d,c,b,e,j,a,h
+h,h,j,d,i,b,g,f,e,c,a
+i,i,g,a,h,e,j,c,b,f,d
+j,j,h,c,a,f,e,b,g,d,i

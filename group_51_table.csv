@@ -1,0 +1,17 @@
+0,z,a,x,b,v,c,t,d,r,f,p,g,n,h,l,i
+z,z,a,x,b,v,c,t,d,r,f,p,g,n,h,l,i
+a,a,v,c,t,d,f,p,z,g,n,h,l,x,b,i,r
+x,x,g,b,r,f,a,c,i,z,p,l,t,d,n,v,h
+b,b,t,r,z,p,g,a,h,x,l,v,c,i,d,f,n
+v,v,d,f,p,z,n,h,a,l,x,b,i,c,t,r,g
+c,c,l,t,g,n,v,f,r,a,h,i,p,z,x,d,b
+t,t,p,g,a,h,l,v,b,c,i,d,f,d,z,n,x
+d,d,z,n,h,a,x,b,v,i,c,t,r,t,p,g,l
+r,r,c,z,x,l,t,g,n,b,v,f,a,f,i,p,d
+f,f,i,p,l,x,d,n,g,v,b,r,h,r,c,z,t
+p,p,h,l,v,b,i,d,t,f,r,z,n,z,a,x,c
+g,g,f,a,c,i,p,l,x,t,d,n,v,n,r,h,z
+n,n,r,h,i,c,z,x,l,d,t,g,b,v,f,a,p
+h,h,b,i,d,t,r,z,p,n,g,a,x,l,v,c,f
+l,l,n,v,f,r,h,i,c,p,z,x,d,t,g,b,a
+i,i,x,d,n,g,b,r,f,h,a,c,z,p,l,t,v
